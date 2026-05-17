@@ -1,0 +1,2 @@
+# AI-POWERED-JOB-MARKET-INTELLIGENCE-AND-SALARY-PREDICTION-SYSTEM-USING-NLP-AND-MACHINE-LEARNING.
+Built an AI-powered Job Market Intelligence and Salary Prediction System using NLP and Machine Learning to analyze job trends, predict salaries, and help users understand skill demand in the current job market. The system processes job listings data to perform salary prediction, skill gap analysis, resume matching, and market trend analysis.
